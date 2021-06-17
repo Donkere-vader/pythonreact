@@ -4,7 +4,20 @@ Did you ever think: "We need a JS library turned into a python module used for c
 
 ## Installation
 
-TODO
+This package is on [pypi](https://pypi.org/project/pythonreact/).  
+Installing can be done via ``pip``
+
+Windows:
+
+```ps
+pip install pythonreact
+```
+
+Mac/ Linux:
+
+```sh
+pip3 install pythonreact
+```
 
 ## Usage
 

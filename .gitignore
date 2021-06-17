@@ -1,0 +1,15 @@
+# Python
+__pycache__
+build
+dist
+*.egg-info
+
+# Ide
+.vscode
+
+# Project
+
+
+# Personal
+dog.json
+dog
